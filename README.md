@@ -1,2 +1,15 @@
-# Attendance-Management-System
-This is an Full Stack Web Development application Used to manage the attendance of Students by Teachers.
+AMS(Attendance Management System)
+=================
+
+The project is meant to create an advanced attendance taking system to help teachers, 
+students and college administration by automating the entire process. It is designed keeping 
+scalability and code- reusability in mind, which means that the same project can be altered 
+by changing few variables to get desired results. Furthermore, there’s scope of adding more 
+functionality without disturbing any of the existing one. This is made possible by using 
+Object Oriented Programming, a Modular for designing web service, and following large 
+parts of MVC model. This allows us to extend the project to mobile applications and other environments.
+
+for more information text to this whats app group : 
+https://chat.whatsapp.com/Go5HZCLzHwW16MA6dGpR1W
+Contact number:+91 99459 81179
+what's app me to number:+9199459 81179
